@@ -1,0 +1,3 @@
+const FavoriteContext = React.createContext(){
+
+}
